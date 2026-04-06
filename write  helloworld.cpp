@@ -1,5 +1,5 @@
-#include<iostream>
-using namespace std;
+//#include<iostream>
+//using namespace std;
 //单行注释
 
 
@@ -8,13 +8,13 @@ using namespace std;
 */
 
 
-int main()
-{
-	
-	cout << "hello world" << endl;
-
-	system("pause");
-
-
-	return 0;
-}
+//int main()
+//{
+//	
+//	cout << "hello world" << endl;
+//
+//	system("pause");
+//
+//
+//	return 0;
+//}

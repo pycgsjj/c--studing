@@ -123,7 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="c++关键字.cpp" />
     <ClCompile Include="write  helloworld.cpp" />
+    <ClCompile Include="变量.cpp" />
+    <ClCompile Include="命名规则.cpp" />
+    <ClCompile Include="实型（浮点）.cpp" />
+    <ClCompile Include="常量.cpp" />
+    <ClCompile Include="整型and sizeof.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

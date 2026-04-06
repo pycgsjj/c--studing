@@ -10,6 +10,12 @@ int main()
 {
 	float a = 3.1415926f;
 	double b = 3.1415926;
+
+
+	//科学计数法3*10的2次方
+	float f2 = 3e2;
+	cout << f2 << endl;
+
 	cout << "float:" << sizeof(a) << endl;
 	cout << "double:" << sizeof(b) << endl;
 	system("pause");

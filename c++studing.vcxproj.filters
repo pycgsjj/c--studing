@@ -66,5 +66,14 @@
     <ClCompile Include="水仙花数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="乘法口诀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="goto语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -33,7 +33,37 @@
     <ClCompile Include="整型and sizeof.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="实型（浮点）.cpp">
+    <ClCompile Include="实型（浮点）及其科学计数法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="转义字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据的输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="运算符 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="程序流程结构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="switch语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dowhile语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

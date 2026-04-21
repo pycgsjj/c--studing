@@ -75,5 +75,14 @@
     <ClCompile Include="goto语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="五只小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组逆转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

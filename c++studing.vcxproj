@@ -131,6 +131,7 @@
     <ClCompile Include="write  helloworld.cpp" />
     <ClCompile Include="乘法口诀.cpp" />
     <ClCompile Include="五只小猪称体重.cpp" />
+    <ClCompile Include="冒泡排序.cpp" />
     <ClCompile Include="变量.cpp" />
     <ClCompile Include="命名规则.cpp" />
     <ClCompile Include="字符串型.cpp" />

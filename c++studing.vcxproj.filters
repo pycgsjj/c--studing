@@ -96,5 +96,28 @@
     <ClCompile Include="函数的定义.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数的调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="值的传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常见样式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的声明.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
